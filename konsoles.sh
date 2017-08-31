@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Functions from creating konsoles.
-
+# Gets sourced by the executable to set up a working env.
 
 #####################################################################
 # Create new console.
